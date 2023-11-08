@@ -1,4 +1,4 @@
-# eBowl
+# iBowl
 # La Gamelle connectée nouvelle génération
 ## Le projet
 Le but de ce projet est de créer une gamelle connectée nouvelle génération imprimée en 3D et basée sur Arduino adaptée aux chats et aux chiens permettant une liberté accrue des programmes de distribution de nourriture.\
