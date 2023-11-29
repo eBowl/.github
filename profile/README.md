@@ -13,7 +13,6 @@ C'est pourquoi nous avons désidé de créer une gamelle connectée à destinati
 
 ## ❱ Technos Mobile
 
-![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![image](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## ❱ Technos Front
@@ -21,7 +20,7 @@ C'est pourquoi nous avons désidé de créer une gamelle connectée à destinati
 ![image](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![image](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
-## ❱ Technos Back
+## ❱ Technos API
 
 ![image](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
